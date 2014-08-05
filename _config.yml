@@ -8,9 +8,9 @@ permalink:        pretty
 # Setup
 title:            Tom Doidge
 tagline:          Software Engineer
-url:              http://tomdoidge.com/
+url:              http://tomdoidge.com
 paginate:         1
-baseurl:          http://tomdoidge.com/
+baseurl:          /
 author:
   name:           Tom Doidge
   url:            http://tomdoidge.com
