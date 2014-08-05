@@ -14,7 +14,6 @@ baseurl:          /
 author:
   name:           Tom Doidge
   url:            http://tomdoidge.com
-  email:          tom@tomdoidge.com
 
 # Custom vars
 version:          1.0.0
