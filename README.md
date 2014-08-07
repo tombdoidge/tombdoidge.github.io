@@ -1,3 +1,3 @@
-# tomdodige.com
+# tomdoidge.com
 
-tomdoidge.com is based on [Poole](https://github.com/poole/poole)
+tomdoidge.com is using [Jekyll](https://github.com/jekyll/jekyll) with [Poole](https://github.com/poole/poole)
