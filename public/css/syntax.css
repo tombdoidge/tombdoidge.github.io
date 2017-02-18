@@ -63,3 +63,20 @@
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
+
+.nav {
+    padding-left: 0;
+    list-style: none;
+}
+
+.nav a {
+    color: #bbbbbb;
+}
+
+h2 {
+    margin-top: 30px;
+    color: #212121;
+}
+h2 {
+    font-size: 21px;
+}

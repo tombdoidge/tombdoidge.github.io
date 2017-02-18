@@ -3,28 +3,31 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+A blacksmith and software engineer based in the UK. I'm currently enjoying blacksmithing, but have studied computer science at Imperial College London and have developed a broad skillset in solving real life problems with software.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+##Highlights
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* Development of a bot to solve  the word game Scrabble Cubes, a game users play for money (not released public).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* Creation of a hack within [World Of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft) allowing the character to walk through walls and access otherwise restricted areas (not released public).
 
-## Setup
+* Cracking various commercial applications (not released public).
 
-Some fun facts about the setup of this project include:
+* [Half-life 2](https://en.wikipedia.org/wiki/Half-Life_2) Mod development.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* Helped a startup develop their award winning iOS app [Momento](https://momentoapp.com/).
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* IQ has been assessed at 130+ through state tests (Not that I put much stake in it :).
 
-Thanks for reading!
+
+
+## Contact
+
+
+I'm always looking to hear interesting problems in metalwork or software. I can be reached at: [tom@tomdoidge.com](mailto:tom@tomdoidge.com)
+
+
+
+![Tom Doidge](/assets/tomdoidge.jpg)
+'15

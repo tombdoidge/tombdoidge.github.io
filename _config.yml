@@ -1,15 +1,14 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
 title:            Tom Doidge
-tagline:          Blacksmith
+tagline:          Blacksmith & Software Engineer
 url:              http://tomdoidge.com
-paginate:         1
 baseurl:          /
 author:
   name:           Tom Doidge
@@ -19,3 +18,7 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/tombdoidge/tombdoidge.github.io
+
+# Custom header pages
+pages_list:       
+  About Me: '/about'
